@@ -1,0 +1,144 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+
+.flex{
+    display: flex;
+    padding: 10px;
+    width: 1192px;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.items{
+    animation: initial;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.flex{
+    display: flex;
+    padding: 4px;
+    padding-left: 64px;
+    width: 1192px;
+}
+    
+.col{
+    flex-direction: column;
+    font-size: 3rem;
+}
+
+.font-bold{
+    font-weight: bolder;
+}
+
+.my-1{
+    margin-top: -88px;
+    margin-bottom: 13px;
+    height: 78px;
+    text-align:center;
+    font-size: 4.5rem;
+    padding-left: 59px;
+}
+
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+    text-align: center ;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-blue{
+    color: rgb(92, 18, 172);
+}
+
+.btn{
+    padding: 16px 42px;
+    border: 3px solid rgb(226, 233, 237);
+    border-radius: 6px;
+    cursor: pointer;
+    color:rgb(238, 238, 243);
+    background-color: rgb(66, 104, 160);
+    font-size: 2rem;
+}
+
+.overflow-hidden{
+    overflow: hidden;
+}
+
+.background{
+    image-orientation: inherit;
+}
+
+.width{
+        width: 100px;
+        height: 50px;
+    }
+
+    .widthness{
+        width: 500px;
+    }
+
+.align-self{
+    align-self: center;
+}
+
+.width-design{
+    width: 2200px;
+    right: 150vb;
+    nav-down: initial;
+
+}
+
+.sect1{
+    height: 636px;
+    width: 1355px;
+}
+.specta{
+    padding-left: 1330px;
+}
+
+.desc{
+    height: 151px;
+    font-size: 30px;
+    padding-left: 305px;
+    text-align: center;
+}
+
+.colu{
+    height: 86px;
+    width: 105px;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.font-size{
+    font-size: 50px;
+    color:#9b00ff
+    ;
+}
+
+.size{
+    font-size: 45px;
+}
